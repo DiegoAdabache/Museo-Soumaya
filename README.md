@@ -1,3 +1,5 @@
+Enlace a la página web: https://diegoadabache.github.io/Museo-Soumaya/ 
+
 Primero, me encargué de poner en una carpeta específica los archivos en los que trabajé, en este caso index.html y styles.ccs, además de crear el respositorio en GitHub
 En la terminal de VS code ejecuté el comando git init para que se creara un respositorio en la carpeta en la que estaba trabajando.
 Después, me encargué de conectar mi repositorio local con el de Github por medio de la instrucción: git remote add origin https://github.com/DiegoAdabache/Museo-Soumaya.git
